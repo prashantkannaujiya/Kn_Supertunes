@@ -1,0 +1,4 @@
+.song-dis{
+   display: flex;
+    justify-content: space-between;
+}
